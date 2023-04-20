@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Khadija Nacer</h1>
-<h3 align="center">A full-stack software engineer from morocco</h3>
 <img align="right" alt="Coding" width="400" src="https://tse1.mm.bing.net/th?id=OIP.uytM-iD56w1iTXSmWc8e6wHaEc&pid=Api&P=0">
 
 
