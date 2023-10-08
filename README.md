@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khadija Nacer</h1>
-<img align="right" alt="Coding" width="400" src="https://tse1.mm.bing.net/th?id=OIP.uytM-iD56w1iTXSmWc8e6wHaEc&pid=Api&P=0">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khadijanacer1&label=Profile%20views&color=0e75b6&style=flat" alt="khadijanacer1" /> </p>
