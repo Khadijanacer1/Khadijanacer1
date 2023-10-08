@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khadija Nacer</h1>
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/xTiTnx37nc3vjsdeLK/giphy.gif?cid=ecf05e476two4z7qt60iklw2y0kqz92gu75au6lb9rmsqvpl&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/6OrCT1jVbonHG/giphy.gif?cid=ecf05e47lnob6vq5aa5ad6g6n72kmud56gk5zxb3tl6xnecr&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khadijanacer1&label=Profile%20views&color=0e75b6&style=flat" alt="khadijanacer1" /> </p>
