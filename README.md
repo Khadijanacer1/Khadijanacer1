@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khadija Nacer</h1>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/6OrCT1jVbonHG/giphy.gif?cid=ecf05e47lnob6vq5aa5ad6g6n72kmud56gk5zxb3tl6xnecr&ep=v1_gifs_related&rid=giphy.gif&ct=g">
-<h3 align="center">A passionate backend developer from morocco</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khadijanacer1&label=Profile%20views&color=0e75b6&style=flat" alt="khadijanacer1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khadijanacer1" alt="khadijanacer1" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/khadijanacer" target="blank"><img src="https://img.shields.io/twitter/follow/khadijanacer?logo=twitter&style=for-the-badge" alt="khadijanacer" /></a> </p>
 
@@ -15,6 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/khadijanacer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khadijanacer" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/khadija nacer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khadija nacer" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
